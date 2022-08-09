@@ -1,0 +1,9 @@
+1. Header python function for doctype
+
+    :param file1: #dict с объектом
+    :param file2: #dict с объектом
+    :return: bool
+    :Date: 2022-06-23
+    :Version: 1
+    :Authors:
+        bodomus@gmail.com
